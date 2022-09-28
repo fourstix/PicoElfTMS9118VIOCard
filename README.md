@@ -16,23 +16,21 @@ With this driver loaded, the [TMS9118 demo programs](https://github.com/fourstix
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
    <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_vio.jpg"></td>
-   <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_full.jpg"></td>
   </tr>
   <tr align="center">
-    <td>Close up of Pico/Elf TMS9118 Video I/O Card.</td>
-    <td>Pico/Elf v2 running with the TMS9118 Video I/O Card and an STG RTC/NVR card connected by an IDE cable.<td>    
+    <td>Close up of Pico/Elf TMS9118 Video I/O Card.</td>   
   </tr>
   <tr align="center">
-     <td colspan="2"><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/schematic.jpg"></td>
+  <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_full.jpg"></td>
   </tr>
   <tr align="center">
-     <td colspan="2">Pico/Elf TMS9118 Video I/O Card Hardware Schematic</td>
+  <td>Pico/Elf v2 running with the TMS9118 Video I/O Card and an STG RTC/NVR card connected by an IDE cable.<td>    
   </tr>
   <tr align="center">
-     <td colspan="2"><img src="https://github.com/fourstix/PicoElfPixieVideoGLCDV2/blob/main/pics/all_three.jpg"></td>
+     <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/schematic.jpg"></td>
   </tr>
   <tr align="center">
-     <td colspan="2">Pico/Elf v2 running with an STG RTC/NVR card and a Pixie Video GLCD Card connected by an IDE cable.</td>
+     <td>Pico/Elf TMS9118 Video I/O Card Hardware Schematic</td>
   </tr>
 </table>
 
