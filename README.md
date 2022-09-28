@@ -18,7 +18,7 @@ With this driver loaded, the [TMS9118 demo programs](https://github.com/fourstix
    <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_vio.jpg"></td>
   </tr>
   <tr align="center">
-    <td>Close up of Pico/Elf TMS9118 Video I/O Card.</td>   
+    <td>Pico/Elf TMS9118 Video I/O Card.</td>   
   </tr>
   <tr align="center">
   <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_full.jpg"></td>
@@ -121,7 +121,7 @@ Bill of Materials
 <tr><td colspan = "2">D1</td><td>1</td><td>5mm Red LED</td></tr>
 <tr><td colspan = "2">DS1,DS2</td><td>1</td><td>TIL311 Hex Displays</td></tr>
 <tr><td colspan = "2">J1</td><td>1</td><td>PJ-202A 2x5.5mm 3 pin Power Jack</td></tr>
-<tr><td colspan = "2">J2</td><td>1</td><td>2x20 Male 40 Pin Connector, 2.54mm spacing</td></tr>
+<tr><td colspan = "2">J2</td><td>1</td><td>2x20 40 Pin Header, 2.54mm spacing</td></tr>
 <tr><td colspan = "2">J3</td><td>1</td><td>2 pin Screw Terminal Block, 5mm spacing</td></tr>
 <tr><td colspan = "2">J4</td><td>1</td><td>Kobe Yellow Phono Jack</td></tr>
 <tr><td colspan = "2">J5,J8-J10</td><td>4</td><td>Male  2Pin Connectors, 2.54mm spacing</td></tr>
