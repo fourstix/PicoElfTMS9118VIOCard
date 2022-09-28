@@ -1,0 +1,33 @@
+Reference, Quantity, Value, Footprint, Datasheet,MPN,MFG
+C1 C2 C3 C4 C6 C7 C10 C11 C12 ,9,0.1 uF,Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,,,Mouser
+C13 ,1,1uF,Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,Mouser
+C14 ,1,0.1uF,Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,Mouser
+C5 ,1,0.33 uF,Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,,,Mouser
+C8 C9 ,2,33pF,Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm,~,,Mouser
+D1 ,1,LED,Red LED 5.0mm,,,Mouser
+DS1 DS2 ,2,TIL311,TIL311 Hex Display,,,JameCo
+J1 ,1,Barrel Jack,Connectors:BARREL_JACK,,,Mouser
+J2 ,1,Pico/Efl Bus,Pin_Header Straight 2x20 Pitch 2.54mm,,,Mouser
+J3 ,1,Vraw,TerminalBlock Bornier 2 P5.08mm,~,,Mouser
+J4 ,1,Video Out,Kobe_Phono_Jack_1560099, ~,,Mouser
+J5 J8 J9 J10 ,4,Vout,Pin Header 1x02 Pitch 2.54mm,~,,Mouser
+J6 ,1,FTDI,Pin Header Rt Angle 1x06 Pitch 2.54mm,~,,Mouser
+J7 ,1,Serial,Pin_Header Rt Angle 1x04 Pitch 2.54mm,~,,Mouser
+Q1 Q2 ,2,2N2222A,TO_SOT_Packages_THT:TO-92_Molded_Wide,https://www.onsemi.com/pub/Collateral/PN2222-D.PDF,,Mouser
+R1 R6 ,2,22K,Resistors  1/4 Watt,~,,Mouser
+R2 ,1,68,Resistor  1/4 Watt,~,,Mouser
+R3 R7 ,2,330,Resistors  1/4 Watt,~,,Mouser
+R4 ,1,560,Resistor  1/4 Watt,~,,Mouser
+R5 ,1,1k,Resistor  1/4 Watt,~,,Mouser
+SW1,1,VReset,Push Button Switch 6mm ,~,,Mouser
+SW2 – SW17,16,Hex Keys 0 – F ,Push Button Switches 6mm ,~,,Mouser
+SW18 ,1,Input,Push Button Switch 6mm ,~,,Mouser
+U1 ,1,74LS08,Housings_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS08,,Mouser
+U2 ,1,74LS32,Housings_DIP:DIP-14_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS32,,Mouser
+U3 ,1,LM7805,TO_SOT_Packages_THT:TO-220-3_Vertical,,,Mouser
+U4 ,1,TMS9118,Housings_DIP:DIP-40_W25.4mm_Socket,,,JameCo
+U5 U6 ,2,TMS4464,Housings_DIP:DIP-18_W7.62mm_Socket,,,JameCo
+U7 ,1,74C922,Housings_DIP:DIP-18_W7.62mm_Socket,,,Mouser
+U8 ,1,74LS541,Housings_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS541,,Mouser
+U9 ,1,74LS173,Housings_DIP:DIP-16_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS173,,Mouser
+Y1 ,1,Crystal,10.7635 MHz Crystal,~,,

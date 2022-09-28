@@ -13,6 +13,30 @@ Examples
 ---------
 With this driver loaded, the [TMS9118 demo programs](https://github.com/fourstix/Elfos-TMS9118-Demos) can run using the [TMS9X18 Video Library](https://github.com/fourstix/Elfos-TMS9X18-Library) to communicate to the video hardware.
 
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_vio.jpg"></td>
+   <td><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/picoelf_full.jpg"></td>
+  </tr>
+  <tr align="center">
+    <td>Close up of Pico/Elf TMS9118 Video I/O Card.</td>
+    <td>Pico/Elf v2 running with the TMS9118 Video I/O Card and an STG RTC/NVR card connected by an IDE cable.<td>    
+  </tr>
+  <tr align="center">
+     <td colspan="2"><img src="https://github.com/fourstix/PicoElfTMS9118VIOCard/blob/main/pics/schematic.jpg"></td>
+  </tr>
+  <tr align="center">
+     <td colspan="2">Pico/Elf TMS9118 Video I/O Card Hardware Schematic</td>
+  </tr>
+  <tr align="center">
+     <td colspan="2"><img src="https://github.com/fourstix/PicoElfPixieVideoGLCDV2/blob/main/pics/all_three.jpg"></td>
+  </tr>
+  <tr align="center">
+     <td colspan="2">Pico/Elf v2 running with an STG RTC/NVR card and a Pixie Video GLCD Card connected by an IDE cable.</td>
+  </tr>
+</table>
+
+
 Data I/O Hardware
 -----------------
 Data can be entered on the hexadecimal keypad and read as input on Port 4. The input button will bring /EF4 low  when pressed. The display is updated with the hexadecimal value on the data bus whenever data is input or output to Port 4. The LED indicates the status of the 1802 Q-bit on the Pico/Elf data bus.
@@ -45,6 +69,7 @@ Repository Contents
   * PicoElfTMS9118VIOCard-gerbers.zip -- Gerber files for Pico/Elf TMS9118 Video I/O PCB.
 * **/docs** -- documentation files
   * PicoElfTMS9118VIOCard.pdf -- schematic for Pico/Elf TMS9118 Video I/O Card.
+  * PicoElfTMS9118VIOCard-BOM.csv -- Bill of Materials for Pico/Elf TMS9118 Video I/O Card.
 * **/pics/** -- example pictures for readme
 
 Pico/Elf v2 Expansion Connector
